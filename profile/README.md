@@ -1,9 +1,10 @@
 <h1>JumpMan Club Brasil - Valorizando o nosso idioma desde 2017</h1>
+
 <div>
 <img loading="lazy" src="https://img.shields.io/github/followers/jumpmanclubbrasil.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers"></a>
 <a href="http://jumpmanclubbrasil.com.br" target="_blank">
 <img loading="lazy" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjumpmanclubbrasil.com.br"></a>
-<a href="https://www.youtube.com/channel/UCmvXzcNkNGp4zxq_lQXsnhA" target="_blank"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCmvXzcNkNGp4zxq_lQXsnhA"></a>
+<a href="https://www.youtube.com/channel/UCmvXzcNkNGp4zxq_lQXsnhA" target="_blank"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCmvXzcNkNGp4zxq_lQXsnhA"></a> <a href="https://github.com/jumpmanclubbrasil/.github/blob/main/LICENSE" target="_blank"> <img loading="lazy" src="https://img.shields.io/github/license/jumpmanclubbrasil/.github?color=blue" alt="GNU General Public License v3.0"></a>
 </div>
 
 <h2>🔖 Sobre nós</h2>
@@ -35,4 +36,3 @@ A GNU GPL promove a liberdade do software e a colaboração comunitária, valore
 <a href="http://www.bit.do/grupogamesinptbr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://web.telegram.org/k/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
-
