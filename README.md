@@ -1,14 +1,13 @@
-<h1>JumpMan Club Brasil - Traduzindo desde 2017</h1>
-<a href="https://github.com/jumpmanclubbrasil" target="_blank"> <img loading="lazy" src="https://img.shields.io/github/followers/jumpmanclubbrasil.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers"></a>
-<a href="http://jumpmanclubbrasil.com.br" target="_blank"><img loading="lazy" <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjumpmanclubbrasil.com.br"></a>
-<a href="LICENSE" target="_blank"> <img loading="lazy" src="https://img.shields.io/github/license/jumpmanclubbrasil/.github" alt="GitHub License"></a>
+<h1>JumpMan Club Brasil - Valorizando o nosso idioma desde 2017</h1>
+<div>
+<img loading="lazy" src="https://img.shields.io/github/followers/jumpmanclubbrasil.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers"></a>
+<a href="http://jumpmanclubbrasil.com.br" target="_blank">
+<img loading="lazy" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjumpmanclubbrasil.com.br"></a>
+<a href="https://www.youtube.com/channel/UCmvXzcNkNGp4zxq_lQXsnhA" target="_blank"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCmvXzcNkNGp4zxq_lQXsnhA"></a>
+</div>
 
 <h2>🔖 Sobre nós</h2>
 <p>Somos um grupo independente de tradução de games! De fã pra fã de forma gratuita traduzimos pra PT-BR games que nativamente não possuem o nosso idioma e distribuimos as traduções gratuitaemnte através da internet!</p>
-
-<div>
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCmvXzcNkNGp4zxq_lQXsnhA">
-</div>
 
 <h2>Política de Distribuição de Traduções</h2>
 O JumpManClub Brasil é um grupo autônomo, independente e sem fins lucrativos dedicado à tradução de jogos para a língua portuguesa. Nosso objetivo é proporcionar acessibilidade linguística aos jogadores brasileiros, uma vez que muitas produtoras de jogos não oferecem traduções oficiais para o português. Trabalhamos para tornar os jogos mais acessíveis e divertidos para a comunidade de jogadores brasileiros.
