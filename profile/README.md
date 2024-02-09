@@ -1,7 +1,6 @@
 <h1>JumpMan Club Brasil - Traduzindo desde 2017</h1>
 <a href="https://github.com/jumpmanclubbrasil" target="_blank"> <img loading="lazy" src="https://img.shields.io/github/followers/jumpmanclubbrasil.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers"></a>
 <a href="http://jumpmanclubbrasil.com.br" target="_blank"><img loading="lazy" <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjumpmanclubbrasil.com.br"></a>
-<a href="LICENSE" target="_blank"> <img loading="lazy" src="https://img.shields.io/github/license/jumpmanclubbrasil/.github" alt="GitHub License"></a>
 
 <h2>🔖 Sobre nós</h2>
 <p>Somos um grupo independente de tradução de games! De fã pra fã de forma gratuita traduzimos pra PT-BR games que nativamente não possuem o nosso idioma e distribuimos as traduções gratuitaemnte através da internet!</p>
