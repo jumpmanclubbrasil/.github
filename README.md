@@ -8,7 +8,7 @@
 </div>
 
 <h2>🔖 Sobre nós</h2>
-<p>Somos um grupo independente de tradução de games! De fã pra fã de forma gratuita traduzimos pra PT-BR games que nativamente não possuem o nosso idioma e distribuimos as traduções gratuitaemnte através da internet!</p>
+<p>Somos um grupo independente de tradução de games! De fã pra fã de forma gratuita traduzimos pra PT-BR games que nativamente não possuem o nosso idioma e distribuimos as traduções gratuitamente através da internet!</p>
 
 <h2>Política de Distribuição de Traduções</h2>
 O JumpManClub Brasil é um grupo autônomo, independente e sem fins lucrativos dedicado à tradução de jogos para a língua portuguesa. Nosso objetivo é proporcionar acessibilidade linguística aos jogadores brasileiros, uma vez que muitas produtoras de jogos não oferecem traduções oficiais para o português. Trabalhamos para tornar os jogos mais acessíveis e divertidos para a comunidade de jogadores brasileiros.
