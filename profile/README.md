@@ -12,11 +12,12 @@
 
 <h2>Política de Distribuição de Traduções</h2>
 O JumpManClub Brasil é um grupo autônomo, independente e sem fins lucrativos dedicado à tradução de jogos para a língua portuguesa. Nosso objetivo é proporcionar acessibilidade linguística aos jogadores brasileiros, uma vez que muitas produtoras de jogos não oferecem traduções oficiais para o português. Trabalhamos para tornar os jogos mais acessíveis e divertidos para a comunidade de jogadores brasileiros.
-Distribuição Gratuita e Doações Voluntárias
 
-<br>Todas as traduções realizadas pelo JumpManClub Brasil são disponibilizadas gratuitamente para o público. Não cobramos pelos nossos serviços de tradução, pois não possuímos vínculos oficiais com as empresas produtoras dos jogos. Acreditamos na democratização do acesso aos jogos e na valorização da comunidade de jogadores.
-Para manter nosso site no ar e continuar oferecendo traduções de qualidade, dependemos de doações voluntárias. As doações são utilizadas para cobrir os custos de hospedagem do site e outros serviços relacionados à manutenção da plataforma online. Ninguém é obrigado a pagar para baixar nossas traduções; elas estão disponíveis gratuitamente para todos os interessados.
-Se você aprecia nosso trabalho e deseja apoiar o projeto, pode fazer uma doação de qualquer quantia através de nossa página de doações. Qualquer contribuição é bem-vinda e ajudará a manter nossos serviços online e funcionais.</br>
+<h2>Distribuição Gratuita e Doações Voluntárias</h2>
+Todas as traduções realizadas pelo JumpManClub Brasil são disponibilizadas gratuitamente para o público. Não cobramos pelos nossos serviços de tradução, pois não possuímos vínculos oficiais com as empresas produtoras dos jogos. Acreditamos na democratização do acesso aos jogos e na valorização da comunidade de jogadores. Para manter nosso site no ar e continuar oferecendo traduções de qualidade, dependemos de doações voluntárias. As doações são utilizadas para cobrir os custos de hospedagem do site e outros serviços relacionados à manutenção da plataforma online. Ninguém é obrigado a pagar para baixar nossas traduções; elas estão disponíveis gratuitamente para todos os interessados.
+Se você aprecia nosso trabalho e deseja apoiar o projeto, pode fazer uma doação de qualquer quantia através de nossa página de doações. Qualquer contribuição é bem-vinda e ajudará a manter nossos serviços online e funcionais.<br>
+</br>
+<a href="http://www.jumpmanclubbrasil.com.br/p/contribuir.html" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Ajude_o_nosso-trabalho-BRANCO" alt="Ajude o nosso trabalho">
 
 <h2>Uso Responsável das Traduções</h2>
 É importante ressaltar que as traduções disponibilizadas pelo JumpManClub Brasil são destinadas apenas para uso em consoles desbloqueados. No entanto, não encorajamos o uso do desbloqueio para acessar jogos não-oficiais. Nossas traduções são projetadas para funcionar perfeitamente em jogos oficiais digitais ou em cartuchos, sem interferir no funcionamento do console ou nos arquivos do jogo.
