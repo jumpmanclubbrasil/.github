@@ -17,7 +17,7 @@ Todas as traduções realizadas pelo JumpManClub Brasil são disponibilizadas gr
 Se você aprecia nosso trabalho e deseja apoiar o projeto, pode fazer uma doação de qualquer quantia através de nossa página de doações. Qualquer contribuição é bem-vinda e ajudará a manter nossos serviços online e funcionais.<br>
 </br>
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/folded-hands_medium-dark-skin-tone_1f64f-1f3fe_1f3fe.png" alt="Mão com tom de pele médio-escuro fazendo gesto de prece" style="max-width: 100px;">
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/folded-hands_medium-dark-skin-tone_1f64f-1f3fe_1f3fe.png" alt="Mão com tom de pele médio-escuro fazendo gesto de prece" style="max-width: 70px;">
 
 <a href="http://www.jumpmanclubbrasil.com.br/p/contribuir.html" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Ajude_o_nosso-trabalho-BRANCO" alt="Ajude o nosso trabalho"></a>
 
