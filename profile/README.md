@@ -3,7 +3,7 @@
 <div>
 <img loading="lazy" src="https://img.shields.io/github/followers/jumpmanclubbrasil.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers"></a> <a href="http://jumpmanclubbrasil.com.br" target="_blank">
 <img loading="lazy" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjumpmanclubbrasil.com.br"></a>
-<a href="https://www.youtube.com/channel/UCmvXzcNkNGp4zxq_lQXsnhA" target="_blank"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCmvXzcNkNGp4zxq_lQXsnhA"></a> <a href="https://github.com/jumpmanclubbrasil/.github/blob/main/LICENSE" target="_blank"> <img loading="lazy" src="https://img.shields.io/github/license/jumpmanclubbrasil/.github?color=branco" alt="GNU General Public License v3.0"></a>
+<a href="https://youtube.com/channel/UCmvXzcNkNGp4zxq_lQXsnhA" target="_blank"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCmvXzcNkNGp4zxq_lQXsnhA"></a> <a href="https://github.com/jumpmanclubbrasil/.github/blob/main/LICENSE" target="_blank"> <img loading="lazy" src="https://img.shields.io/github/license/jumpmanclubbrasil/.github?color=branco" alt="GNU General Public License v3.0"></a>
 </div>
 
 <h2>🔖 Sobre nós</h2>
@@ -19,7 +19,7 @@ Se você aprecia nosso trabalho e deseja apoiar o projeto, pode fazer uma doaç�
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/folded-hands_medium-dark-skin-tone_1f64f-1f3fe_1f3fe.png" width="150" height="150" alt="Mão com tom de pele médio-escuro fazendo gesto de prece">
 
-<a href="http://www.jumpmanclubbrasil.com.br/p/contribuir.html" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Ajude_o_nosso-trabalho-BRANCO" alt="Ajude o nosso trabalho"></a>
+<a href="http://jumpmanclubbrasil.com.br/p/contribuir.html" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Ajude_o_nosso-trabalho-BRANCO" alt="Ajude o nosso trabalho"></a>
 
 <h2>Uso Responsável das Traduções</h2>
 É importante ressaltar que as traduções disponibilizadas pelo JumpManClub Brasil são destinadas apenas para uso em consoles desbloqueados. No entanto, não encorajamos o uso do desbloqueio para acessar jogos não-oficiais. Nossas traduções são projetadas para funcionar perfeitamente em jogos oficiais digitais ou em cartuchos, sem interferir no funcionamento do console ou nos arquivos do jogo.
@@ -39,15 +39,14 @@ A GNU GPL promove a liberdade do software e a colaboração comunitária, valore
 ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h2><span style="font-size: 36px;">☎️</span> Contatos</h2>
 
 <div>
-<a href="https://www.youtube.com/jumpmanclubbrasil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/jumpmanclubbrasil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://youtube.com/jumpmanclubbrasil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https:/instagram.com/jumpmanclubbrasil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:suporte@jumpmanclubbrasil.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/company/jumpmanclubbrasil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/company/jumpmanclubbrasil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/buQgneF" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://chat.whatsapp.com/CQL9bbyV5ZTAyzalhWZ0S0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://fb.com/groups/JumpmanClubBR"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
