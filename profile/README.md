@@ -1,4 +1,4 @@
-<h1>JumpMan Club Brasil - Valorizando o nosso idioma desde 2017</h1>
+<h1>JumpMan Club Brasil - Traduzindo a nossa nostalgia desde 2017</h1>
 
 <div>
 <img loading="lazy" src="https://img.shields.io/github/followers/jumpmanclubbrasil.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers"></a> <a href="http://jumpmanclubbrasil.com.br" target="_blank">
